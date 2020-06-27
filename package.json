@@ -1,29 +1,28 @@
 {
-  "_from": "eslint-plugin-vue@next",
+  "_from": "bitbucket:onycode/vue-eslint-plugin",
   "_id": "eslint-plugin-vue@7.0.0-alpha.6",
   "_inBundle": false,
-  "_integrity": "sha512-gxRMxp3njmTez+aKGvVTUauAvt4Pd9WlU2wHW/sOzwHln1JTa7vV86iETRXBVxhqf0nDBsSfuDS7k6HLefvSPg==",
+  "_integrity": "",
   "_location": "/eslint-plugin-vue",
   "_phantomChildren": {
-    "eslint-visitor-keys": "1.1.0"
+    "eslint-visitor-keys": "1.3.0"
   },
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "eslint-plugin-vue@next",
+    "type": "git",
+    "raw": "eslint-plugin-vue@bitbucket:onycode/vue-eslint-plugin",
     "name": "eslint-plugin-vue",
     "escapedName": "eslint-plugin-vue",
-    "rawSpec": "next",
-    "saveSpec": null,
-    "fetchSpec": "next"
+    "rawSpec": "bitbucket:onycode/vue-eslint-plugin",
+    "saveSpec": "bitbucket:onycode/vue-eslint-plugin",
+    "fetchSpec": null,
+    "gitCommittish": null
   },
   "_requiredBy": [
-    "#DEV:/",
-    "#USER"
+    "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/eslint-plugin-vue/-/eslint-plugin-vue-7.0.0-alpha.6.tgz",
+  "_resolved": "bitbucket:onycode/vue-eslint-plugin#98fbdc7552fd2167481d8df74d884ea562b86664",
   "_shasum": "a6ad485f0bae2df73870f66b7fe46dcac764480f",
-  "_spec": "eslint-plugin-vue@next",
+  "_spec": "eslint-plugin-vue@bitbucket:onycode/vue-eslint-plugin",
   "_where": "/Users/cemrekarakulak/Desktop/Project/Admin/www/resources/factory",
   "author": {
     "name": "Toru Nagashima",
